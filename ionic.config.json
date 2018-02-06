@@ -1,0 +1,8 @@
+{
+  "name": "speaks-ace",
+  "app_id": "442fe13e",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
